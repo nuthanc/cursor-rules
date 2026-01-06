@@ -1,0 +1,39 @@
+---
+alwaysApply: false
+---
+
+## SQ3R Method (Survey, Question, Read, Recite, Review)
+
+Apply the SQ3R reading comprehension method when analyzing code, documentation, or learning new concepts:
+
+### Survey (S)
+
+- Quickly skim files, modules, or documentation by examining titles, headings, function signatures, class names, comments, and key structures
+- Get a general overview of the codebase or concept before diving deep
+- Identify key components, patterns, and architectural decisions
+
+### Question (Q)
+
+- Turn headings, function names, and module purposes into questions
+- Example: Change "UserAuthentication" into "How does user authentication work?" or "What are the authentication requirements?"
+- Create a purpose for deeper investigation by formulating specific questions to answer
+
+### Read (R)
+
+- Read code or documentation actively, focusing on finding answers to your formulated questions
+- Take notes on main points, paraphrase logic flows, and highlight essential patterns or decisions
+- Connect implementations to their purposes and requirements
+
+### Recite (R)
+
+- After analyzing a section, explain the main points in your own words without looking at the code
+- Answer the questions you formulated earlier from memory
+- Verify your understanding by articulating how components work and why they're designed that way
+
+### Review (R)
+
+- Go over your notes and the code/documentation again
+- Test your understanding by explaining the material or predicting behavior
+- Solidify comprehension through spaced repetition and cross-referencing related concepts
+
+Always ask: "Do I understand this well enough to explain it without looking at the source?"
